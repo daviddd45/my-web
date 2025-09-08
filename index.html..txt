@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nexja</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin-top: 100px; }
+    h1 { color: darkblue; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Selamat Datang di Nexja</h1>
+  <p>Website ini dibuat untuk tugas saya 😊</p>
+</body>
+</html>
